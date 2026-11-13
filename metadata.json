@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Hindi",
+  "description": "Futuristic Hindi and Hinglish voice-activated personal AI assistant with Arc Reactor HUD, smart device controls, and APK/AAB release hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
